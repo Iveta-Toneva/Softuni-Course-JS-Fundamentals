@@ -39,6 +39,7 @@ function movingTarget(array) {
     currentLine = array[index];
   }
   console.log(targetsArray.join("|"));
+  
 }
 movingTarget([
   "52 74 23 44 96 110",
